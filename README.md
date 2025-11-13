@@ -1,3 +1,3 @@
 # Hotel_Business_Visualization
 
-Sangat penting bagi suatu perusahaan untuk selalu menganalisa performa bisnisnya. Fokus project ini adalah untuk mengetahui bagaimana perilaku para pelanggan dalam melakukan pemesanan hotel, dan hubungannya terhadap tingkat pembatalan pemesanan hotel. Hasil dari insight yang ditemukan akan disajikan dalam bentuk data visualisasi agar lebih mudah dipahami
+It is essential for any company to continually analyse its business performance. This project focuses on understanding customer behaviour when booking hotels and how it relates to hotel reservation cancellation rates. The insights gathered will be presented through data visualisations to ensure they are easy to interpret.
